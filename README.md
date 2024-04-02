@@ -91,10 +91,16 @@ plt.show()
 ```
 
 ## Output:
+
+### Head:
+
 ![image](https://github.com/kailashmuthukumaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/123893976/f2087e5c-d03a-4418-945c-298e47302107)
+
+### Accuracy:
+
 ![image](https://github.com/kailashmuthukumaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/123893976/fcbd8105-f7a0-44b7-a503-20efb99cdae6)
 
-
+### Prediction:
 
 ![image](https://github.com/kailashmuthukumaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/123893976/235f97bd-6567-4809-8005-c326bf0ba719)
 
